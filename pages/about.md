@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About Me 999
+title: About Me
 headshot: /assets/img/headshot.webp
 permalink: /about
 ---
